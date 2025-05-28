@@ -1,1 +1,129 @@
-# content-writing-portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ayisha B. Asim | Portfolio</title>
+  <style>
+    body {
+      background-color: #fff;
+      color: #000;
+      font-family: 'Georgia', serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 2em;
+      border: 3px double black;
+    }
+
+    h1, h2 {
+      font-family: 'Times New Roman', serif;
+      border-bottom: 1px solid #000;
+      padding-bottom: 0.3em;
+    }
+
+    section {
+      margin-bottom: 3em;
+    }
+
+    ul {
+      list-style: square;
+      padding-left: 1.5em;
+    }
+
+    a {
+      color: black;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    blockquote {
+      font-style: italic;
+      border-left: 4px solid #999;
+      padding-left: 1em;
+      margin: 1em 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Ayisha B. Asim</h1>
+    <p>Writer | Pharm.D Student | Storyteller</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I’m Ayisha B. Asim, a Pharm.D student, writer, and aspiring changemaker based in Islamabad, Pakistan. 
+      I write about global affairs, healthcare, and human stories that matter. 
+      Through thoughtful writing and research, I aim to amplify voices, foster empathy, and create lasting impact.
+    </p>
+  </section> <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ayisha B. Asim – Writing Portfolio</title>
+  <style>
+    body {
+      background-color: #fff;
+      color: #000;
+      font-family: 'Georgia', serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 2em;
+      border: 3px double black;
+    }
+    h1, h2 {
+      font-family: 'Times New Roman', serif;
+      border-bottom: 1px solid #000;
+    }
+    ul {
+      list-style: square;
+    }
+    a {
+      color: black;
+      text-decoration: underline;
+    }
+    .section {
+      margin-bottom: 2em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ayisha B. Asim</h1>
+  <p><i>Victorian-Era Inspired Writing Portfolio</i></p>
+
+  <div class="section">
+    <h2>📖 Short Stories</h2>
+    <ul>
+      <li><a href="short-stories/Zohra’s Battle for Freedom.pdf">Zohra’s Battle for Freedom</a></li>
+      <li><a href="short-stories/Under a Broken Sky.pdf">Under a Broken Sky</a></li>
+      <li><a href="short-stories/The Dark Lady of Whitby.pdf">The Dark Lady of Whitby</a></li>
+      <li><a href="short-stories/The Challenge.pdf">The Challenge</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🗞️ Press Releases</h2>
+    <ul>
+      <li><a href="press-releases/Sahil Report Exposes Urgent Need for Child Protection Measures.pdf">Sahil Report Exposes...</a></li>
+      <li><a href="press-releases/Xi meets foreign business leaders amid economic concerns in China.pdf">Xi meets foreign business leaders...</a></li>
+      <li><a href="press-releases/Gwadar Swift Flood Relief Operations.pdf">Gwadar Swift Flood Relief</a></li>
+      <li><a href="press-releases/Prince Harry officially renounces British residency.pdf">Prince Harry Renounces Residency</a></li>
+      <li><a href="press-releases/UAE storm claims four lives, disrupts flight schedules.pdf">UAE Storm Disruption</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>💊 Healthcare Articles</h2>
+    <ul>
+      <li><a href="healthcare-articles/Burning Up Fever & How Our Body Copes with It.pdf">Burning Up: Fever</a></li>
+      <li><a href="healthcare-articles/Polio resurgence and vaccination campaigns in Pakistan.pdf">Polio Resurgence</a></li>
+      <li><a href="healthcare-articles/Protect Your Smile Foods That Threaten Oral Health.pdf">Protect Your Smile</a></li>
+    </ul>
+  </div>
+</body>
+</html>
